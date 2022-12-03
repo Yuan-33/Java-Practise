@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.eric.dao.StuDao">
+
+    <insert id="addStudent" parameterType="Student">
+        insert into stumanagesys.students (stuID, stuName, stuAge, stuGender, stuYear)
+        values (#{stuID}, #{stuName}, #{stuAge},#{stuGender},#{stuYear})
+    </insert>
+
+    <delete id="deleteStudentByID" parameterType="int">
+        delete from stumanagesys.students where stuID=#{stuID}
+    </delete>
+
+    <update id="updateStudent" parameterType="Student">
+        update stumanagesys.students
+        set stuID = #{stuID},stuName = #{stuName},stuAge = #{stuAge},stuGender = #{stuGender},stuYear = #{stuYear}
+        where stuID = #{stuID}
+    </update>
+
+    <select id="queryStudentByID" parameterType="int" resultType="Student">
+        select * from stumanagesys.students
+        where stuID = #{stuID}
+    </select>
+
+    <select id="queryAllStudent" resultType="Student">
+        SELECT * from stumanagesys.students
+    </select>
+
+</mapper>

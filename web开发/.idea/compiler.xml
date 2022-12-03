@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mybatis-02" />
+        <module name="springmvc-02-annotation" />
+        <module name="mybatis-01" />
+        <module name="servlet-02 (1)" />
+        <module name="mybatis-02 (1)" />
+        <module name="StudentManager" />
+        <module name="javeweb-01-maven (1)" />
+        <module name="mybatis-01 (1)" />
+        <module name="javeweb-01-maven" />
+        <module name="servlet-01 (1)" />
+        <module name="servlet-02" />
+        <module name="servlet-01" />
+        <module name="springmvc-01-intro" />
+        <module name="lab3_jsp (1)" />
+        <module name="lab3_jsp (2)" />
+        <module name="springmvc-mybatis" />
+        <module name="springboot-06" />
+        <module name="lab3_jsp" />
+        <module name="lab3_jsp (3)" />
+        <module name="SpringMVC-StuManageSys" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="javeweb-01-maven" target="14" />
+      <module name="javeweb-01-maven (1)" target="14" />
+      <module name="lab2_servlet" target="8" />
+      <module name="lab2_servlet (1)" target="8" />
+      <module name="lab3_jsp" target="8" />
+      <module name="lab3_jsp (1)" target="8" />
+      <module name="lab3_jsp (2)" target="8" />
+      <module name="lab3_jsp (3)" target="8" />
+      <module name="mybatis-01" target="8" />
+      <module name="mybatis-01 (1)" target="8" />
+      <module name="mybatis-02" target="8" />
+      <module name="mybatis-02 (1)" target="8" />
+      <module name="mybatis_project" target="8" />
+      <module name="mybatis_project (1)" target="8" />
+      <module name="servlet-01" target="8" />
+      <module name="servlet-01 (1)" target="8" />
+      <module name="servlet-02" target="8" />
+      <module name="servlet-02 (1)" target="8" />
+      <module name="spring_project" target="8" />
+      <module name="springboot-06" target="8" />
+      <module name="springmvc-01-intro" target="8" />
+      <module name="springmvc-02-annotation" target="8" />
+      <module name="springmvc-mybatis" target="8" />
+      <module name="SpringMVC-StuManageSys" target="8" />
+      <module name="springmvc_project" target="8" />
+      <module name="StudentManager" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="springboot-06" options="-parameters" />
+    </option>
+  </component>
+</project>

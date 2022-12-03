@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springmvc_project/SpringMVC-StuManageSys/SpringMVC-StuManageSys.iml" filepath="$PROJECT_DIR$/springmvc_project/SpringMVC-StuManageSys/SpringMVC-StuManageSys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudentManager-master/StudentManager.iml" filepath="$PROJECT_DIR$/StudentManager-master/StudentManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_project/maven_project/lab1_intro/javeweb-01-maven.iml" filepath="$PROJECT_DIR$/java_project/maven_project/lab1_intro/javeweb-01-maven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven_project/lab1_intro/javeweb-01-maven (1).iml" filepath="$PROJECT_DIR$/maven_project/lab1_intro/javeweb-01-maven (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_project/maven_project/lab2_servlet/lab2_servlet.iml" filepath="$PROJECT_DIR$/java_project/maven_project/lab2_servlet/lab2_servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven_project/lab2_servlet/lab2_servlet (1).iml" filepath="$PROJECT_DIR$/maven_project/lab2_servlet/lab2_servlet (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_project/maven_project/lab3_jsp/lab3_jsp.iml" filepath="$PROJECT_DIR$/java_project/maven_project/lab3_jsp/lab3_jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_project/maven_project/smbms-web/lab3_jsp (1).iml" filepath="$PROJECT_DIR$/java_project/maven_project/smbms-web/lab3_jsp (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven_project/lab3_jsp/lab3_jsp (2).iml" filepath="$PROJECT_DIR$/maven_project/lab3_jsp/lab3_jsp (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven_project/smbms-web/lab3_jsp (3).iml" filepath="$PROJECT_DIR$/maven_project/smbms-web/lab3_jsp (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_project/mybatis_project/mybatis-01/mybatis-01.iml" filepath="$PROJECT_DIR$/java_project/mybatis_project/mybatis-01/mybatis-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis_project/mybatis-01/mybatis-01 (1).iml" filepath="$PROJECT_DIR$/mybatis_project/mybatis-01/mybatis-01 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_project/mybatis_project/mybatis-02/mybatis-02.iml" filepath="$PROJECT_DIR$/java_project/mybatis_project/mybatis-02/mybatis-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis_project/mybatis-02/mybatis-02 (1).iml" filepath="$PROJECT_DIR$/mybatis_project/mybatis-02/mybatis-02 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_project/mybatis_project/mybatis_project.iml" filepath="$PROJECT_DIR$/java_project/mybatis_project/mybatis_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis_project/mybatis_project (1).iml" filepath="$PROJECT_DIR$/mybatis_project/mybatis_project (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_project/maven_project/lab2_servlet/servlet-01/servlet-01.iml" filepath="$PROJECT_DIR$/java_project/maven_project/lab2_servlet/servlet-01/servlet-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven_project/lab2_servlet/servlet-01/servlet-01 (1).iml" filepath="$PROJECT_DIR$/maven_project/lab2_servlet/servlet-01/servlet-01 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_project/maven_project/lab2_servlet/servlet-02/servlet-02.iml" filepath="$PROJECT_DIR$/java_project/maven_project/lab2_servlet/servlet-02/servlet-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven_project/lab2_servlet/servlet-02/servlet-02 (1).iml" filepath="$PROJECT_DIR$/maven_project/lab2_servlet/servlet-02/servlet-02 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_project/spring_project.iml" filepath="$PROJECT_DIR$/spring_project/spring_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_project/springboot-06.iml" filepath="$PROJECT_DIR$/springboot_project/springboot-06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc_project/springmvc-01-intro/springmvc-01-intro.iml" filepath="$PROJECT_DIR$/springmvc_project/springmvc-01-intro/springmvc-01-intro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc_project/springmvc-02-annotation/springmvc-02-annotation.iml" filepath="$PROJECT_DIR$/springmvc_project/springmvc-02-annotation/springmvc-02-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc_project/springmvc-mybatis/springmvc-mybatis.iml" filepath="$PROJECT_DIR$/springmvc_project/springmvc-mybatis/springmvc-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc_project/springmvc_project.iml" filepath="$PROJECT_DIR$/springmvc_project/springmvc_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/web开发.iml" filepath="$PROJECT_DIR$/.idea/web开发.iml" />
+    </modules>
+  </component>
+</project>

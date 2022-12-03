@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/java_project/maven_project/lab1_intro" />
+    <file type="web" url="file://$PROJECT_DIR$/java_project/maven_project/lab2_servlet/servlet-01" />
+    <file type="web" url="file://$PROJECT_DIR$/java_project/maven_project/lab2_servlet/servlet-02" />
+    <file type="web" url="file://$PROJECT_DIR$/maven_project/lab1_intro" />
+    <file type="web" url="file://$PROJECT_DIR$/maven_project/lab2_servlet/servlet-01" />
+    <file type="web" url="file://$PROJECT_DIR$/maven_project/lab2_servlet/servlet-02" />
+    <file type="web" url="file://$PROJECT_DIR$/StudentManager-master" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/java_project/maven_project/lab3_jsp/pom.xml" />
+        <option value="$PROJECT_DIR$/java_project/maven_project/smbms-web/pom.xml" />
+        <option value="$PROJECT_DIR$/java_project/maven_project/lab1_intro/pom.xml" />
+        <option value="$PROJECT_DIR$/java_project/maven_project/lab2_servlet/pom.xml" />
+        <option value="$PROJECT_DIR$/java_project/mybatis_project/pom.xml" />
+        <option value="$PROJECT_DIR$/maven_project/lab3_jsp/pom.xml" />
+        <option value="$PROJECT_DIR$/maven_project/smbms-web/pom.xml" />
+        <option value="$PROJECT_DIR$/maven_project/lab1_intro/pom.xml" />
+        <option value="$PROJECT_DIR$/maven_project/lab2_servlet/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_project/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis_project/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc_project/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_project/pom.xml" />
+        <option value="$PROJECT_DIR$/StudentManager-master/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

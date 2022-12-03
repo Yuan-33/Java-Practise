@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="javeweb-01-maven (1):war">
+    <output-path>$PROJECT_DIR$/maven_project/lab1_intro/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>javeweb-01-maven (1)</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="javeweb-01-maven.war">
+      <element id="artifact" artifact-name="javeweb-01-maven (1):war exploded" />
+    </root>
+  </artifact>
+</component>

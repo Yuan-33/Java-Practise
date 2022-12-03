@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="UserDao1" class="com.eric.dao.UserDaolmpl1"/>
+    <bean id="UserDao2" class="com.eric.dao.UserDaolmpl2"/>
+    <bean id="UserDao3" class="com.eric.dao.UserDaolmpl3"/>
+
+    <!--ref指向一个注册了的bean 看id-->
+    <bean id="UserServicelmpl" class="com.eric.service.UserServicelmpl">
+        <property name="userDao" ref="UserDao2"></property>
+    </bean>
+</beans>
